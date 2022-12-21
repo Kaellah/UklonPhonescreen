@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">phonescreen</string>
+
+    <string name="load_list">Load list</string>
+    <string name="add_item">Add item</string>
+    <string name="empty_list">No elements</string>
+
+    <string name="formatter_position">%s, position №%d from %d</string>
+</resources>
